@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+exports/**/_tmp*.stl
+exports/_vis.stl
+.venv/
+# área de trabalho da divulgação (rascunhos do site, scripts locais) — fica fora do repositório público
+documentation/divulgacao/
